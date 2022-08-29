@@ -17,13 +17,13 @@ I am currently working at ERA InfoTech Limited as a Full Stack Developer.
 ## ⚡ tech-stack
 ```json
 {
-  "language": ["Javascript", "Python", "Java"],
-  "backend": [ "NodeJs", "Yii2"],
-  "frontend": [ "ReactJs", "NextJs"],
-  "database": ["PostgreSql","MySQL", "MongoDB"],
-  "mobile": ["React-native"],
-  "containerization": ["Docker"],
-  "Architecture": ["Monolithic", "Microservices"]
+  "language"         : ["Javascript", "Python", "Java"],
+  "backend"          : [ "NodeJs", "Yii2"],
+  "frontend"         : [ "ReactJs", "NextJs"],
+  "database"         : ["PostgreSql","MySQL", "MongoDB"],
+  "mobile"           : ["React-native"],
+  "containerization" : ["Docker"],
+  "Architecture"     : ["Monolithic", "Microservices"]
 }
 ```
 
