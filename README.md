@@ -14,6 +14,20 @@ I am currently working at ERA InfoTech Limited as a Full Stack Developer.
 <a href="https://www.facebook.com/nazmul.abir.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustafizur.rahman171" height="30" width="40" /></a>
 </p>
 
+## ⚡ tech-stack
+```json
+{
+  "language": ["Javascript", "PHP", "C++"],
+  "backend": ["Laravel", "NodeJs", "Yii2"],
+  "frontend": ["VusJs", "ReactJs", "NuxtJs"],
+  "database": ["MySQL", "MongoDB", "ORACLE"],
+  "mobile": ["React-native"],
+  "containerization": ["Docker"],
+  "orchestration": ["Kubernetes"],
+  "Architecture": ["Monolithic", "Microservices"]
+}
+```
+
 [![Md.Nazmul Haque's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul5297&show_icons=true&theme=onedark&count_private=true&findTotalCommits=true&hide=contribs)](https://github.com/nazmul5297/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul5297&show_icons=true&theme=onedark&count_private=true&layout=compact&langs_count=10)](https://github.com/nazmul5297/github-readme-stats)
